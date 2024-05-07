@@ -4,6 +4,7 @@ const Sercives = () => {
   return (
     <div>
       <h1>Sercives</h1>
+      <h1>Sercives</h1>
     </div>
   );
 };
